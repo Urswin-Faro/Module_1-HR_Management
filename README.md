@@ -82,7 +82,7 @@ Open your web browser and navigate to http://localhost:8080 after running the de
 - Vue.js: https://vuejs.org
 - npm: https://www.npmjs.com
 
-Author
+Authors:
 Urswin Faro
 Armien Beggs
 Abdul Felton
