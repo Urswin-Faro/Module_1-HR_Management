@@ -2,20 +2,20 @@
 A web-based Human Resources (HR) Management System developed by Urswin Faro, Armien Beggs and Abdul Felton for the Life choices Academy assignment. This application facilitates efficient management of employee records and HR processes.
 
 ## Table of Contents
-- Technologies Used
-- Project Setup
-- Key Features
-- Usage Instructions
-- Customization
-- Potential Improvements
-- Credits
-- Author
+- [Technologies Used](#technologies-used)
+- [Project Setup](#project-setup)
+- [Key Features](#key-features)
+- [Usage Instructions](#usage-instructions)
+- [Customization](#customization)
+- [Potential Improvements](#potential-improvements)
+- [Credits](#credits)
+- [Author](#authors)
 
 ## Technologies Used
 - Frontend: Vue.js
 - Other Tools: npm
 
-Project Setup
+## Project Setup
 To set up the project locally:
 
 1. Clone the Repository:
@@ -82,7 +82,7 @@ Open your web browser and navigate to http://localhost:8080 after running the de
 - Vue.js: https://vuejs.org
 - npm: https://www.npmjs.com
 
-Author
+## Authors
 Urswin Faro
 Armien Beggs
 Abdul Felton
